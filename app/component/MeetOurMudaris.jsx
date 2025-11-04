@@ -29,7 +29,7 @@ const MeetOurMudaris = () => {
   ];
 
   return (
-    <section className="py-20 px-6 sm:px-12 text-center bg-gradient-to-b from-transparent via-white to-emerald-50 rounded-b-2xl shadow">
+    <section className="py-20 px-6 sm:px-12 text-center bg-gradient-to-b from-transparent via-white to-emerald-50 rounded-b-2xl shadow" id="ustads">
       <h2 className="text-3xl sm:text-4xl font-bold text-emerald-800 mb-6">
         আমাদের ওস্তাদদের সাথে দেখা করুন
       </h2>
